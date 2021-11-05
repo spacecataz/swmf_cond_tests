@@ -1,0 +1,8 @@
+
+#UNIFORMCONDUCTANCE
+5	SigmaPedConst
+5	SigmaHalConst
+
+#BACKGROUNDCOND
+0.0	StarLightPedCond
+0.0	PolarCapPedCond
