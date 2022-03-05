@@ -1,0 +1,7 @@
+#IONOSPHERE
+3	imodel
+F	UseFullCurrent
+F	UseFakeRegion2
+100.0	F107Flux
+0.25	StarLightPedConductance
+0.25	PolarCapPedConductance
