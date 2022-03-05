@@ -1,7 +1,7 @@
 
 #UNIFORMCONDUCTANCE
 5	SigmaPedConst
-5	SigmaHalConst
+10	SigmaHalConst
 
 #BACKGROUNDCOND
 0.0	StarLightPedCond
